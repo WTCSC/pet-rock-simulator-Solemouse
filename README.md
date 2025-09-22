@@ -2,7 +2,7 @@
 Welcome to the pet tungsten cube simulator, in this simulator you will have to take care of a tungsten cube, if the tungsten cube is unhappy or its hunger is low, then it will start to lose health rapidly, you need to take care of this by playing with the tungsten cube and feeding it
 
 ## File to use
-petrockv2.py
+petrockv3Final.py
 
 #### Requirements
 * Python 3.0
